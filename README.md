@@ -6,7 +6,7 @@ Useage：download this package and save it to your Rime installed path, the re-d
 
 [五笔拼音数据来源](https://github.com/junxxx/rime_wubi_pinyin)
 
-###R ime 安装
+### Rime 安装
 #### Mac
 Mac ~/Library/Rime/
 
