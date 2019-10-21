@@ -6,11 +6,11 @@ Useage：download this package and save it to your Rime installed path, the re-d
 
 [五笔拼音数据来源](https://github.com/junxxx/rime_wubi_pinyin)
 
-###Rime 安装
-####Mac
+###R ime 安装
+#### Mac
 Mac ~/Library/Rime/
 
-####Windows
+#### Windows
 在用户文件夹以及程序文件夹中替换相关文件
 
 ### default.customer.yaml
