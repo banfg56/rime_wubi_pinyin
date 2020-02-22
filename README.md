@@ -13,6 +13,14 @@ Mac ~/Library/Rime/
 #### Windows
 在用户文件夹以及程序文件夹中替换相关文件
 
+#### Linux Ubuntu
+使用 fcitx-rime, 因为wubi86需要 wubi 与 pinyin-simp 下两个输入方案的数据。安装命令如下：
+```
+apt-get install fcitx-rime
+apt-get install librime-data-wubi librime-data-pinyin-simp
+后续可拷贝自定义方案到 ~/.config/fcitx/rime 下。然后再在输入法中选择重新部署即可
+```
+
 ### default.customer.yaml
 主要是以下配置:
 * 设置输入法为 wubi_pinyin
