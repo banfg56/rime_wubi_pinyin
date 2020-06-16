@@ -12,3 +12,5 @@ patch:
     - {schema: wubi_pinyin}
   switcher:
     hotkeys: ["Control+F4"]
+  key_binder/bindings:
+    - { accept: "Shift+space", toggle: noop, when: always}
